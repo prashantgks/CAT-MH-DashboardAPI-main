@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAT-MH-DashboardAPI", "CAT-MH-DashboardAPI\CAT-MH-DashboardAPI.csproj", "{6701FE5F-85AA-4CFB-A52E-DEBE77DE1589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATMH-API.Infrastructure", "CATMH-API.Infrastructure\CATMH-API.Infrastructure.csproj", "{CDD55682-1B3A-4B08-8EB4-CC00A35A36AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATMH-API.DataAccess", "CATMH-API.DataAccess\CATMH-API.DataAccess.csproj", "{F311D345-2C19-431E-B62F-FF29FBE7A47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6701FE5F-85AA-4CFB-A52E-DEBE77DE1589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6701FE5F-85AA-4CFB-A52E-DEBE77DE1589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6701FE5F-85AA-4CFB-A52E-DEBE77DE1589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6701FE5F-85AA-4CFB-A52E-DEBE77DE1589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD55682-1B3A-4B08-8EB4-CC00A35A36AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD55682-1B3A-4B08-8EB4-CC00A35A36AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD55682-1B3A-4B08-8EB4-CC00A35A36AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD55682-1B3A-4B08-8EB4-CC00A35A36AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F311D345-2C19-431E-B62F-FF29FBE7A47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F311D345-2C19-431E-B62F-FF29FBE7A47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F311D345-2C19-431E-B62F-FF29FBE7A47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F311D345-2C19-431E-B62F-FF29FBE7A47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C4D364-484C-4D0E-839B-80DB66560B68}
+	EndGlobalSection
+EndGlobal
